@@ -1,4 +1,4 @@
-# 👁️ DiaBites: Nutrition Label Object Detection (YOLOv8 Dataset)
+# 👁️ DiaBites: Nutrition Label Object Detection (YOLOv11 Dataset)
 
 Repositori ini berfokus pada tahapan penyediaan, anotasi, dan rekayasa dataset *Computer Vision* untuk proyek **DiaBites**. Tujuan utama dari *pipeline* ini adalah mendeteksi dan melakukan *cropping* pada area "Informasi Nilai Gizi" pada kemasan makanan/minuman di Indonesia sebelum data tersebut diekstraksi oleh mesin OCR (*Optical Character Recognition*).
 
